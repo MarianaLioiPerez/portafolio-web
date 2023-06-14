@@ -3,3 +3,31 @@
     background-color: #d3d3ec;
     font-family: 'Catamaran', sans-serif;
 }
+
+.mensaje{
+    margin-top: 50px !important;
+}
+
+.contacto_titulo{
+    margin-top: 90px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 800;
+    margin-bottom: 8px;
+    padding-bottom: 0px;
+    color: #1c97a0;
+}
+
+.subtitulo_contacto{
+    margin-top: 30px;
+    color: #5d5c7a;
+}
+
+.body_contacto{
+    background-color: #d9e6ed;
+}
+
+.subtitulo_contacto2{
+    font-style: italic;
+    color: #5d5c7a;
+    font-size: 28px;
+}
