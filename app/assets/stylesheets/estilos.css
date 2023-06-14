@@ -6,9 +6,22 @@
    margin-left: 50px !important;
 }
 
-.proyecto{
+.pagina-proyecto{
     background-color: #d3d3ec;
     font-family: 'Catamaran', sans-serif;
+}
+
+.proyecto{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.boton{
+    background-color: #d2e808 !important;
+    font-family: 'Catamaran', sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    color: #410c6e !important;
 }
 
 .mensaje{
